@@ -11,6 +11,8 @@
 ウィンドウの高さ全体を100として、割合でサイズを指定します。*/
  padding: 10px;
  display: flex;
+ justify-content: center;
+ align-items: center;
 }
 
 .flex>div{
